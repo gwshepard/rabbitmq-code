@@ -51,7 +51,7 @@
 		<spring.framework.version>4.2.5.RELEASE</spring.framework.version>
 		<slf4j.version>1.7.14</slf4j.version>
 		<h2.version>1.4.191</h2.version>
-		<jfreechart.version>1.0.14</jfreechart.version>
+		<jfreechart.version>1.5.2</jfreechart.version>
 		<jetty.version>6.1.26</jetty.version>
 		<logback.version>1.1.3</logback.version>
 		<junit.version>4.12</junit.version>
