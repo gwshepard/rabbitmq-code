@@ -46,7 +46,7 @@
 	</modules>
 
 	<properties>
-		<rabbit.client.version>3.6.1</rabbit.client.version>
+		<rabbit.client.version>4.8.0</rabbit.client.version>
 		<spring.amqp.version>1.5.5.RELEASE</spring.amqp.version>
 		<spring.framework.version>4.2.5.RELEASE</spring.framework.version>
 		<slf4j.version>1.7.14</slf4j.version>
